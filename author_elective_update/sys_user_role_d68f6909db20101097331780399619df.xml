@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="DELETE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <encryption_context/>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_253170_game_revi.game_user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>game_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-01 14:22:14</sys_created_on>
+        <sys_id>d68f6909db20101097331780399619df</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_253170_game_revi.game_user</sys_name>
+        <sys_package display_value="Game Reviewer" source="x_253170_game_revi">d7adad49db2010109733178039961900</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Game Reviewer">d7adad49db2010109733178039961900</sys_scope>
+        <sys_update_name>sys_user_role_d68f6909db20101097331780399619df</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-01 14:22:14</sys_updated_on>
+    </sys_user_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Game Reviewer">d7adad49db2010109733178039961900</application>
+        <file_path/>
+        <instance_id>073f4d4edb329300439ef70fbf9619f0</instance_id>
+        <instance_name>dev62006</instance_name>
+        <name>sys_user_role_d68f6909db20101097331780399619df</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description/><elevated_privilege>false</elevated_privilege><encryption_context/><grantable>true</grantable><includes_roles/><name>x_253170_game_revi.game_user</name><requires_subscription>-1</requires_subscription><scoped_admin>false</scoped_admin><suffix>game_user</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-01 14:22:14</sys_created_on><sys_id>d68f6909db20101097331780399619df</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_253170_game_revi.game_user</sys_name><sys_package display_value="Game Reviewer" source="x_253170_game_revi">d7adad49db2010109733178039961900</sys_package><sys_policy/><sys_scope display_value="Game Reviewer">d7adad49db2010109733178039961900</sys_scope><sys_update_name>sys_user_role_d68f6909db20101097331780399619df</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-01 14:22:14</sys_updated_on></sys_user_role></record_update>]]></payload>
+        <payload_hash>-915415947</payload_hash>
+        <record_name>x_253170_game_revi.game_user</record_name>
+        <reverted_from/>
+        <source>dbadad49db2010109733178039961902</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-01 14:22:14</sys_created_on>
+        <sys_id>ea8f250ddb201010973317803996196e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171d09dcc240000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-01 14:22:14</sys_updated_on>
+        <type>Role</type>
+        <update_guid>268f250dfb201010dbbceb635188da6e</update_guid>
+        <update_guid_history>268f250dfb201010dbbceb635188da6e:-915415947</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Record deleted 2020-05-01 11:50:55">549192c9dbe0101097331780399619f7</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-01 16:50:55</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role">sys_user_role</sys_db_object>
+        <sys_id>670ca028801c4110b38059dc89c5bca4</sys_id>
+        <sys_metadata>d68f6909db20101097331780399619df</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_253170_game_revi.game_user</sys_name>
+        <sys_package display_value="Game Reviewer" source="x_253170_game_revi">d7adad49db2010109733178039961900</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Game Reviewer">d7adad49db2010109733178039961900</sys_scope>
+        <sys_scope_delete display_value="">491b0926c5cc4401a419371bf7d13ea1</sys_scope_delete>
+        <sys_update_name>sys_user_role_d68f6909db20101097331780399619df</sys_update_name>
+        <sys_update_version display_value="sys_user_role_d68f6909db20101097331780399619df">ea8f250ddb201010973317803996196e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-01 16:50:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

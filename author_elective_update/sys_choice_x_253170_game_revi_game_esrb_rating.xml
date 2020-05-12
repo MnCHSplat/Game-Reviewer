@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="DELETE" field="esrb_rating" table="x_253170_game_revi_game" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>esrb_rating</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>-- New choice --</label>
+            <language>en</language>
+            <name>x_253170_game_revi_game</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-01 14:29:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7311398ddb20101097331780399619c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-01 14:29:09</sys_updated_on>
+            <value>-- New choice --</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>esrb_rating</element>
+            <name>x_253170_game_revi_game</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-01 14:29:09</sys_created_on>
+            <sys_id>bb11398ddb20101097331780399619c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>esrb_rating</sys_name>
+            <sys_package display_value="Game Reviewer" source="x_253170_game_revi">d7adad49db2010109733178039961900</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Game Reviewer">d7adad49db2010109733178039961900</sys_scope>
+            <sys_update_name>sys_choice_x_253170_game_revi_game_esrb_rating</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-01 14:29:09</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Game Reviewer">d7adad49db2010109733178039961900</application>
+        <file_path/>
+        <instance_id>073f4d4edb329300439ef70fbf9619f0</instance_id>
+        <instance_name>dev62006</instance_name>
+        <name>sys_choice_x_253170_game_revi_game_esrb_rating</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="INSERT_OR_UPDATE" field="esrb_rating" table="x_253170_game_revi_game" version="3"><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>esrb_rating</element><hint/><inactive>false</inactive><label>-- New choice --</label><language>en</language><name>x_253170_game_revi_game</name><sequence/><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-01 14:29:09</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>7311398ddb20101097331780399619c6</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-01 14:29:09</sys_updated_on><value>-- New choice --</value></sys_choice><sys_choice_set action="INSERT_OR_UPDATE"><element>esrb_rating</element><name>x_253170_game_revi_game</name><sys_class_name>sys_choice_set</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-01 14:29:09</sys_created_on><sys_id>bb11398ddb20101097331780399619c6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>esrb_rating</sys_name><sys_package display_value="Game Reviewer" source="x_253170_game_revi">d7adad49db2010109733178039961900</sys_package><sys_policy/><sys_scope display_value="Game Reviewer">d7adad49db2010109733178039961900</sys_scope><sys_update_name>sys_choice_x_253170_game_revi_game_esrb_rating</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-01 14:29:09</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>2093295660</payload_hash>
+        <record_name>game.ESRB Rating</record_name>
+        <reverted_from/>
+        <source>dbadad49db2010109733178039961902</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-01 14:29:09</sys_created_on>
+        <sys_id>3711398ddb20101097331780399619c8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171d0a422550000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-01 14:29:09</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>bf11398daf201010a105d07dc9b6e2c7</update_guid>
+        <update_guid_history>bf11398daf201010a105d07dc9b6e2c7:2093295660</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-01 14:29:42</sys_created_on>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>bb11398ddb20101097331780399619c6</sys_id>
+        <sys_metadata>bb11398ddb20101097331780399619c6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>esrb_rating</sys_name>
+        <sys_package display_value="Game Reviewer" source="x_253170_game_revi">d7adad49db2010109733178039961900</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Game Reviewer">d7adad49db2010109733178039961900</sys_scope>
+        <sys_scope_delete display_value="">491b0926c5cc4401a419371bf7d13ea1</sys_scope_delete>
+        <sys_update_name>sys_choice_x_253170_game_revi_game_esrb_rating</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_253170_game_revi_game_esrb_rating">3711398ddb20101097331780399619c8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-01 14:29:42</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

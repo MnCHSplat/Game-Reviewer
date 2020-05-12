@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="genre" table="x_253170_game_revi_game" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>genre</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>FPS</label>
+            <language>en</language>
+            <name>x_253170_game_revi_game</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-01 14:36:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>55d2bd01db60101097331780399619a9</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-01 14:36:55</sys_updated_on>
+            <value>FPS</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>genre</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Puzzle</label>
+            <language>en</language>
+            <name>x_253170_game_revi_game</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-01 14:37:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7ed23501db6010109733178039961902</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-01 14:37:10</sys_updated_on>
+            <value>Puzzle</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>genre</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Racing</label>
+            <language>en</language>
+            <name>x_253170_game_revi_game</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-01 14:37:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fee2b901db60101097331780399619f2</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-01 14:37:20</sys_updated_on>
+            <value>Racing</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>genre</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Role Playing</label>
+            <language>en</language>
+            <name>x_253170_game_revi_game</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-01 14:37:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>96f2398ddb20101097331780399619d0</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-01 14:37:33</sys_updated_on>
+            <value>RPG</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>genre</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sports</label>
+            <language>en</language>
+            <name>x_253170_game_revi_game</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-01 14:38:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4903bd01db60101097331780399619af</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-01 14:38:23</sys_updated_on>
+            <value>Sports</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>genre</element>
+            <name>x_253170_game_revi_game</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-01 14:36:44</sys_created_on>
+            <sys_id>7ad23d01db601010973317803996198a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>genre</sys_name>
+            <sys_package display_value="Game Reviewer" source="x_253170_game_revi">d7adad49db2010109733178039961900</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Game Reviewer">d7adad49db2010109733178039961900</sys_scope>
+            <sys_update_name>sys_choice_x_253170_game_revi_game_genre</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-01 14:36:44</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

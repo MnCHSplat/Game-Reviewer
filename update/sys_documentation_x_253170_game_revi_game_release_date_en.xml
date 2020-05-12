@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="release_date" label="Release Date" language="en" table="x_253170_game_revi_game">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>release_date</element>
+            <help/>
+            <hint/>
+            <label>Release Date</label>
+            <language>en</language>
+            <name>x_253170_game_revi_game</name>
+            <plural>Release Dates</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-01 14:36:04</sys_created_on>
+            <sys_id>c9b2b901db601010973317803996199d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Release Date</sys_name>
+            <sys_package display_value="Game Reviewer" source="x_253170_game_revi">d7adad49db2010109733178039961900</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Game Reviewer">d7adad49db2010109733178039961900</sys_scope>
+            <sys_update_name>sys_documentation_x_253170_game_revi_game_release_date_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-01 14:36:04</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
